@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
-  <title> Haley Hill - Portfolio </title> 
+  <title> "Haley Hill - Portfolio" </title> 
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -18,7 +18,7 @@
     <li><a href="#contact">Contact</a></li>
   </ul>
 </nav>
-/* Home page */
+/*Home page */
 <section id="home">
 <h1> Haley Hill | HRIS Specialist | Data Analyst | UX Design </h1>
 <p> Welcome to my portfolio! I am Haley, I have a background in HR Information Systems, Data Analytics, Marketing, HTML and UX Design. I am creative, empathetic, hard-working, reliable, and driven. I believe the end user is the center of any successful design solution for UX, and that my mission is not complete unless I have full customer satisfaction within HRIS. </p>
